@@ -1,10 +1,10 @@
-# 🗣️ Fale Fácil
+#  Fale Fácil
 
 > Sistema de Gestão de Demandas Internas para a PAREX Indústria Mecânica, Caldeiraria e Estruturas Metálicas S.A.
 
 ---
 
-## 📖 Sobre o Projeto
+##  Sobre o Projeto
 
 O **Fale Fácil** é uma plataforma desenvolvida para modernizar o processo de registro, acompanhamento e gerenciamento de demandas internas da empresa.
 
@@ -14,7 +14,7 @@ Ao substituir processos manuais por um sistema informatizado, o projeto busca re
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Automatizar o gerenciamento de demandas internas da empresa, proporcionando:
 
@@ -26,7 +26,7 @@ Automatizar o gerenciamento de demandas internas da empresa, proporcionando:
 
 ---
 
-## 👥 Equipe do Projeto
+##  Equipe do Projeto
 
 | Integrante                        | Função                                              | GitHub                                                       |
 | --------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
@@ -38,7 +38,7 @@ Automatizar o gerenciamento de demandas internas da empresa, proporcionando:
 
 ---
 
-## 🏢 Público-Alvo
+##  Público-Alvo
 
 O sistema foi projetado para atender:
 
@@ -52,7 +52,7 @@ O sistema foi projetado para atender:
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 ### Gestão de Demandas
 
@@ -77,7 +77,7 @@ O sistema foi projetado para atender:
 
 ---
 
-## 🔄 Fluxo de Funcionamento
+##  Fluxo de Funcionamento
 
 ```text
 Colaborador
@@ -103,7 +103,7 @@ Conclusão da Demanda
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ### Frontend
 
@@ -126,7 +126,7 @@ Conclusão da Demanda
 
 ---
 
-## 📋 Regras de Negócio
+##  Regras de Negócio
 
 * Toda demanda deve possuir uma categoria válida;
 * O colaborador pode optar pelo anonimato;
@@ -136,7 +136,7 @@ Conclusão da Demanda
 
 ---
 
-## ⚠️ Limitações da Versão MVP
+##  Limitações da Versão MVP
 
 * Necessidade de conexão com a internet;
 * Ausência de aplicativo mobile;
@@ -145,7 +145,7 @@ Conclusão da Demanda
 
 ---
 
-## 🚀 Evoluções Futuras
+##  Evoluções Futuras
 
 * Aplicativo para dispositivos móveis;
 * Notificações em tempo real;
@@ -156,6 +156,6 @@ Conclusão da Demanda
 
 ---
 
-## 📌 Conclusão
+##  Conclusão
 
 O **Fale Fácil** representa uma solução tecnológica voltada para a melhoria da comunicação interna e da gestão de demandas da empresa. A centralização das informações em uma única plataforma proporciona maior controle, transparência e eficiência operacional, contribuindo diretamente para a modernização dos processos organizacionais.
