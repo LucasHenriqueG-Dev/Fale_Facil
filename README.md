@@ -29,11 +29,13 @@ Com o objetivo de modernizar esse processo, foi desenvolvido o sistema Fale Fác
 
 **Equipe de Desenvolvimento:**
 
-* Arthur Carlos Vieira da Silva
-* Davi Silva Torres
-* Lucas Henrique Guimarães
-* Lucy Kelle da Silva Cruz
-* Nicoly Aline Mendes
+| Integrante | Responsabilidade | GitHub |
+|------------|------------------|---------|
+| **Lucas Henrique Guimarães** | Líder do Projeto, Arquitetura do Sistema e Desenvolvimento Backend | [@LucasHenriqueG-Dev](https://github.com/LucasHenriqueG-Dev) |
+| **Lucy Kelle da Silva Cruz** | Modelagem e Administração do Banco de Dados | [@LucyKelle-dev](https://github.com/LucyKelle-dev) |
+| **Nicoly Aline Mendes** | Desenvolvimento Full Stack e Integrações | [@nicoly3](https://github.com/nicoly3) |
+| **Arthur Carlos Vieira da Silva** | Desenvolvimento Frontend e Regras de Negócio | — |
+| **Davi Silva Torres** | Desenvolvimento Frontend, Controle de Usuários e Testes | [@davi-silva-torres](https://github.com/davi-silva-torres) |
 
 ---
 
