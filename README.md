@@ -33,7 +33,7 @@ Automatizar o gerenciamento de demandas internas da empresa, proporcionando:
 | **Lucas Henrique Guimarães**      | Líder do Projeto • Arquitetura do Sistema • Backend | [@LucasHenriqueG-Dev](https://github.com/LucasHenriqueG-Dev) |
 | **Lucy Kelle da Silva Cruz**      | Banco de Dados • Modelagem de Dados                 | [@LucyKelle-dev](https://github.com/LucyKelle-dev)           |
 | **Nicoly Aline Mendes**           | Desenvolvimento Full Stack • Integrações            | [@nicoly3](https://github.com/nicoly3)                       |
-| **Arthur Carlos Vieira da Silva** | Frontend • Regras de Negócio                        | Em desenvolvimento                                           |
+| **Arthur Carlos Vieira da Silva** | Frontend • Regras de Negócio                        | @ArthurCarlos(https://github.com/0001182467-lab)                                       |
 | **Davi Silva Torres**             | Frontend • Controle de Usuários • Testes            | [@davi-silva-torres](https://github.com/davi-silva-torres)   |
 
 ---
