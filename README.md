@@ -1,54 +1,48 @@
-# Fale_Facil
-# DOCUMENTAÇÃO DO SISTEMA – FALE FÁCIL
+# 🗣️ Fale Fácil
 
-## RESUMO
-
-O Fale Fácil é uma plataforma desenvolvida para otimizar o gerenciamento de demandas internas da empresa PAREX Indústria Mecânica, Caldeiraria e Estruturas Metálicas S.A.
-
-O sistema centraliza solicitações em um único ambiente digital, permitindo o registro de demandas de forma identificada ou anônima, acompanhamento do andamento das solicitações e gestão por meio de um painel administrativo.
-
-A solução busca reduzir falhas nos processos manuais, aumentar a rastreabilidade das informações e promover maior eficiência na comunicação entre os setores da empresa.
+> Sistema de Gestão de Demandas Internas para a PAREX Indústria Mecânica, Caldeiraria e Estruturas Metálicas S.A.
 
 ---
 
-# INTRODUÇÃO
+## 📖 Sobre o Projeto
 
-A comunicação eficiente entre colaboradores e setores é fundamental para o bom funcionamento de qualquer organização. Entretanto, processos manuais de registro e acompanhamento de solicitações podem gerar perda de informações, atrasos e dificuldades de controle.
+O **Fale Fácil** é uma plataforma desenvolvida para modernizar o processo de registro, acompanhamento e gerenciamento de demandas internas da empresa.
 
-Com o objetivo de modernizar esse processo, foi desenvolvido o sistema Fale Fácil, uma plataforma digital que centraliza o gerenciamento de demandas internas, proporcionando maior organização, transparência e agilidade no tratamento das solicitações.
+A solução centraliza solicitações em um único ambiente digital, permitindo que colaboradores registrem demandas de forma identificada ou anônima, acompanhem o andamento de suas solicitações e recebam maior transparência durante todo o processo.
 
----
-
-# 1. IDENTIFICAÇÃO DO SISTEMA
-
-**Nome do Sistema:** Fale Fácil
-
-**Versão:** MVP 1.0
-
-**Data:** 2026
-
-**Equipe de Desenvolvimento:**
-
-| Integrante | Responsabilidade | GitHub |
-|------------|------------------|---------|
-| **Lucas Henrique Guimarães** | Líder do Projeto, Arquitetura do Sistema e Desenvolvimento Backend | [@LucasHenriqueG-Dev](https://github.com/LucasHenriqueG-Dev) |
-| **Lucy Kelle da Silva Cruz** | Modelagem e Administração do Banco de Dados | [@LucyKelle-dev](https://github.com/LucyKelle-dev) |
-| **Nicoly Aline Mendes** | Desenvolvimento Full Stack e Integrações | [@nicoly3](https://github.com/nicoly3) |
-| **Arthur Carlos Vieira da Silva** | Desenvolvimento Frontend e Regras de Negócio | — |
-| **Davi Silva Torres** | Desenvolvimento Frontend, Controle de Usuários e Testes | [@davi-silva-torres](https://github.com/davi-silva-torres) |
+Ao substituir processos manuais por um sistema informatizado, o projeto busca reduzir retrabalho, minimizar perdas de informação e aumentar a eficiência operacional da organização.
 
 ---
 
-# 2. OBJETIVO DO SISTEMA
+## 🎯 Objetivo
 
-O Fale Fácil tem como objetivo automatizar o processo de registro, acompanhamento e gerenciamento de demandas internas, substituindo processos manuais por uma solução digital mais eficiente, segura e organizada.
+Automatizar o gerenciamento de demandas internas da empresa, proporcionando:
+
+* Maior organização das solicitações;
+* Redução de processos manuais;
+* Melhor comunicação entre setores;
+* Rastreabilidade completa das demandas;
+* Maior transparência para os colaboradores.
 
 ---
 
-# 3. PÚBLICO-ALVO
+## 👥 Equipe do Projeto
 
-O sistema é destinado aos colaboradores e setores internos da empresa, incluindo:
+| Integrante                        | Função                                              | GitHub                                                       |
+| --------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| **Lucas Henrique Guimarães**      | Líder do Projeto • Arquitetura do Sistema • Backend | [@LucasHenriqueG-Dev](https://github.com/LucasHenriqueG-Dev) |
+| **Lucy Kelle da Silva Cruz**      | Banco de Dados • Modelagem de Dados                 | [@LucyKelle-dev](https://github.com/LucyKelle-dev)           |
+| **Nicoly Aline Mendes**           | Desenvolvimento Full Stack • Integrações            | [@nicoly3](https://github.com/nicoly3)                       |
+| **Arthur Carlos Vieira da Silva** | Frontend • Regras de Negócio                        | Em desenvolvimento                                           |
+| **Davi Silva Torres**             | Frontend • Controle de Usuários • Testes            | [@davi-silva-torres](https://github.com/davi-silva-torres)   |
 
+---
+
+## 🏢 Público-Alvo
+
+O sistema foi projetado para atender:
+
+* Colaboradores da empresa;
 * Recursos Humanos;
 * Segurança do Trabalho;
 * Administração;
@@ -58,45 +52,73 @@ O sistema é destinado aos colaboradores e setores internos da empresa, incluind
 
 ---
 
-# 4. FUNCIONALIDADES PRINCIPAIS
+## ✨ Funcionalidades
 
-* Registro de demandas internas;
-* Solicitações anônimas ou identificadas;
-* Categorização automática das demandas;
-* Acompanhamento de status em tempo real;
-* Geração de protocolo;
+### Gestão de Demandas
+
+* Cadastro de solicitações;
+* Registro anônimo ou identificado;
+* Geração automática de protocolo;
+* Histórico completo das interações;
+* Encaminhamento por categoria.
+
+### Acompanhamento
+
+* Visualização do status em tempo real;
+* Atualização do andamento das solicitações;
+* Consulta ao histórico de atendimento.
+
+### Administração
+
 * Painel administrativo;
-* Histórico de solicitações;
-* Relatórios gerenciais.
+* Gestão das demandas;
+* Controle de categorias;
+* Emissão de relatórios.
 
 ---
 
-# 5. DESCRIÇÃO DO FUNCIONAMENTO
+## 🔄 Fluxo de Funcionamento
 
-1. O colaborador registra uma solicitação no sistema;
-2. A demanda é armazenada e categorizada;
-3. O setor responsável recebe a solicitação;
-4. O andamento é atualizado conforme a tratativa;
-5. O usuário acompanha o status até sua conclusão.
+```text
+Colaborador
+     │
+     ▼
+Registro da Solicitação
+     │
+     ▼
+Classificação da Demanda
+     │
+     ▼
+Encaminhamento ao Setor
+     │
+     ▼
+Tratativa da Solicitação
+     │
+     ▼
+Atualização de Status
+     │
+     ▼
+Conclusão da Demanda
+```
 
 ---
 
-# 6. TECNOLOGIAS UTILIZADAS
+## 🛠️ Tecnologias Utilizadas
 
-**Frontend**
+### Frontend
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 
-**Backend**
+### Backend
 
 * Java
 
-**Banco de Dados**
+### Banco de Dados
 
 * MySQL
 
-**Ferramentas**
+### Ferramentas de Desenvolvimento
 
 * GitHub
 * Trello
@@ -104,34 +126,36 @@ O sistema é destinado aos colaboradores e setores internos da empresa, incluind
 
 ---
 
-# 7. REGRAS DE NEGÓCIO
+## 📋 Regras de Negócio
 
-* Toda demanda deve possuir uma categoria;
-* O usuário pode optar pelo anonimato;
+* Toda demanda deve possuir uma categoria válida;
+* O colaborador pode optar pelo anonimato;
 * Cada solicitação recebe um protocolo único;
-* O sistema mantém histórico completo das ações;
-* O encaminhamento ocorre conforme a categoria selecionada.
+* O histórico das demandas é armazenado permanentemente;
+* O encaminhamento ocorre automaticamente conforme a categoria selecionada.
 
 ---
 
-# 8. LIMITAÇÕES
+## ⚠️ Limitações da Versão MVP
 
-* Dependência de acesso à internet;
-* Ausência de aplicativo mobile na versão inicial;
-* Sem integração com sistemas corporativos externos.
+* Necessidade de conexão com a internet;
+* Ausência de aplicativo mobile;
+* Sem integração com sistemas corporativos externos;
+* Foco inicial nas funcionalidades essenciais.
 
 ---
 
-# 9. MELHORIAS FUTURAS
+## 🚀 Evoluções Futuras
 
-* Aplicativo mobile;
+* Aplicativo para dispositivos móveis;
 * Notificações em tempo real;
-* Integração com sistemas internos;
-* Dashboards analíticos;
-* Priorização automática de demandas.
+* Integração com sistemas internos da empresa;
+* Dashboards gerenciais;
+* Relatórios avançados;
+* Priorização inteligente de demandas.
 
 ---
 
-# CONCLUSÃO
+## 📌 Conclusão
 
-O Fale Fácil oferece uma solução eficiente para o gerenciamento de demandas internas, promovendo maior organização, rastreabilidade e agilidade nos processos da empresa. A centralização das informações contribui para uma comunicação mais eficiente entre os setores e para a melhoria contínua do ambiente organizacional.
+O **Fale Fácil** representa uma solução tecnológica voltada para a melhoria da comunicação interna e da gestão de demandas da empresa. A centralização das informações em uma única plataforma proporciona maior controle, transparência e eficiência operacional, contribuindo diretamente para a modernização dos processos organizacionais.
